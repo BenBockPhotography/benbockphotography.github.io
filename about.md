@@ -18,4 +18,4 @@ https://jekyllrb.com/
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[benbockphotography@gmail.com](mailto:benbockphotography@gmail.com)
