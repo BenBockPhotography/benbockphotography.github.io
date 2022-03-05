@@ -6,7 +6,6 @@ title: Oregon Trees
 ![_config.yml]({{ site.baseurl }}/images/ORForestTrees.jpg)
 Welcome to my first photography blog post. I honestly cannot tell you why I am starting a blog amid college, or why I choose nature photography as its subject, yet here we are. I hope you enjoy what you see; we'll start with a picture I took on a family trip in Zig Zag, Oregon.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
 I had just purchased a brand new Canon EOS M50; my partner, her family, and myself were on our way to Oregon for an end of summer get away. I figured this would be the prime environment for a small form factor mirrorless camera. Through the days of our trip we would go on many small hikes, a fishing trip, and an excursion up Mt. Hood. While the iconic, or perhaps overdone, Up-The-Trees shot felt somewhat mundane to me, it was a good starting point on what has come to be an exciting dive into photography. I remember having a hard time getting the exposure, iso, and F number to line up for a shot that felt good to me; I still think this photo is a bit over exposed but it is all part of the learning process. I enjoyed the way more details stood out the more I worked with the picture in post-shoot editing software, and I was excited to see how my other photos turned out.
 
