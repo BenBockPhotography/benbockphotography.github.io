@@ -12,11 +12,11 @@ I work in the tech field for my day job, and GitHub Pages was the best solution 
 
 Links:
 
-https://github.com/
+[Github Pages](https://pages.github.com/)
 
-http://www.barryclark.co
+[Berry's Site](http://www.barryclark.co)
 
-https://jekyllrb.com/
+[Jekyll Framework](https://jekyllrb.com/)
 
 
 
