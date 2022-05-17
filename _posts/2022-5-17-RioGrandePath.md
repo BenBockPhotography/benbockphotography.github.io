@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rio Grande Reeds
+title: Rio Grande Path
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/RioGrandePath.jpg)
