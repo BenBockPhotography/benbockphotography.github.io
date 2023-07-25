@@ -3,7 +3,7 @@ layout: post
 title: The Bahia Hotel (Maybe)
 ---
 
-![_config.yml]({{ site.baseurl }}/images/DribblingWater.jpg)
+![_config.yml]({{ site.baseurl }}/images/TheBahia.jpg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Another tale of taking the camera with you is this shot of (what I think is) the Bahia Hotel in San Diego California. I was out on a paddle boat bay tour having the best Old Fashion that I have ever had when I looked to the west ot see the sun setting over this building. I had to ballance the ISO and shutter speed to keep my field of focus where I wanted it at a higher f-stop, but this nice shot popped out. In this post I'll talk a little bit about why I tend to keep a camera in my backpack with me wherever I go. 
 
 
