@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Duck On A Log
+title: Sknrgoly Squirrel
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/SknroglySquirrel.jpg)
