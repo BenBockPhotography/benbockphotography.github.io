@@ -1,21 +1,25 @@
 ---
 layout: post
-title: New Mexico Ground Squirrels
+title: Backyard Mama Quail
 ---
 
-![_config.yml]({{ site.baseurl }}/images/GroundSquirrel.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Since we moved from the suburbs of Rio Rancho, New Mexico to the slightly less populated suburbs of Rio Rancho, New Mexico these little squirrels have been racing around our property. They are only about four to six inches nose to hind bits (their tail often lays flat on their back), and they love to get into the bird feeders. Today, I will talk about The Harris's Antelope Squirrel (I think).
+![_config.yml]({{ site.baseurl }}/images/ProudQuail.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This post focuses the Gambel's Quail (Callipepla gambelii), along with a bit more commentary on my photography as compared to the last post. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First, a BenMayNotKnowWhatHe'sDoing disclaimer: my animal identification skills are not the best, borderline awful, so I ~think~ this is a Harris's Antelope Squirrel, but I cannot say for certain. Everything that I have found about them seems to match and none of the other common types of New Mexico ground squirrel seem to match as well as the Harris's Antelope does. If you feel strongly that this is not a Harris's Antelope squirrel, feel free to leave a comment or send me a message, I welcome any and all feedback!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I think it's become commonplace for me to apologize for my posting frequency in the second sentence of a post and for not fulfilling the commitment of my last post; however, this time I do have at least two good excuses. First, I've moved to Oregon! Expect many a wet and green photo coming to your tiny screen in your pocket soon. Second, this really is just a hobby for me (despite what my bruised and battered wallet may say), so setting goals like posting once a week (or once a month) ~might~ have been a bit overzealous. On to the quail!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; According to the  Arizona-Sonora Desert Museum "The Harris's Antelope Squirrel is a resident ground squirrel of the American Southwest, occurring in much of Arizona and small areas of New Mexico, California, Nevada, as well as part of northwestern Mexico" [(Source)](http://greglasley.com/content/Mammals/HarrissAntelopeSquirrel.php). Their small size makes them the perfect desert scavenger as they forage for nuts, wild berries, and wild grains around the desert landscape. Their tail, while not as bushy as a typical tree squirrel, is typically used like a small umbrella along their back [(Source)](https://www.desertmuseum.org/kids/oz/long-fact-sheets/Harris%27s%20Antelope%20ground%20Squirrel.php). 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The New Mexico Department of Game & Fish has published some great reading material about these small birds, and a majority of the information about these birds in this post comes from their resources. The Gambel's Quail began its time on Earth in the Sonoran Desert of Southwest California, Southwest Arizona, and Northwest Mexico. They then spread to New Mexico and their assembly call is a staple of springtime in the desert. While they are small, they are also quite mighty in number, having clutches of 10-14 per year, sometimes having two clutches per year. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mammals of this size tend to fill a much needed gap in the ecosystem serving as the link between the plant and animal world. In this case, squirrels are especially useful in their seed dispersion capacities. “Their biggest contribution to the forest is in shaping plant composition" says Robert McCleery of the University of Florida [(Source)](https://news.ufl.edu/articles/2018/01/why-should-you-love-squirrels-here-are-six-reasons.html#:~:text=They%20are%20nature's%20gardeners.,of%20nutrients%2C%20and%20burying%20them.) In essence, these forgetful friends wil bury seeds, forget where they buried their seeds, and then the seeds will grow into new plants. This repeated planting and forgetting has given them the quaint title of "Nature's Gardeners." 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This photo was quite fun to take as it was one of the few times the wildlife actually showed up for one of my post-work photo shoots. During the summer 2023 while living in a 5th wheel I would setup a folding adirondack chair outside where I would often sit with my camera on a tripod for an hour or two before sunset practicing photography. On this particular afternoon, I heard the hoard of baby quail ambling up the small hill in the backyard quickly followed by a young mother and an equally young father. They were so concerned with their massive covey of golf ball sized babies they didn't seem to pay attention to me. The parents formed a sort of two point perimeter around the group to protect the babies as they ate; it was during this time that the mother stepped a little ways away from the group and I was able to snag this shot. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These backyard cuties still hold a place in my heart and their little chirps and squeaks will always be a welcome sound in the morning air. I hope you all enjoyed reading about these small friends, and I hope to be posting more nature commentaries soon!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This photo holds a special place in my heart because it was one of the best pictures I'd taken on a DLSR since I really got into photography. I'd be shooting with a Canon m50 for a while, then transitioned to a full-frame 6DmkII. I was having some trouble getting images to turn out the way I was expecting with the 6D, especially when the m50 produced beautiful images right out of the box. But once I spent enough time taking random pictures, I began to have a better feel for what made for a good image. When I was able to snag this one, I was quite proud of the effort I'd been putting in and how effectively it had paid off. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you all for reading, I've had a blast taking a bunch of photos lately so hopefully I will be posting more, but alas, might not be the case. Thank you for all the support!
 
 Best,
 -Ben
+
+
 
 
 
