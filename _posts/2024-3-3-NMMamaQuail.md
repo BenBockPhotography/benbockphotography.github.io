@@ -1,0 +1,27 @@
+---
+layout: post
+title: Backyard Mama Quail
+---
+
+![_config.yml]({{ site.baseurl }}/images/ProudQuail.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This post focuses the Gambel's Quail (Callipepla gambelii), along with a bit more commentary on my photography as compared to the last post. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I think it's become commonplace for me to apologize for my posting frequency in the second sentence of a post and for not fulfilling the commitment of my last post; however, this time I do have at least two good excuses. First, I've moved to Oregon! Expect many a wet and green photo coming to your tiny screen in your pocket soon. Second, this really is just a hobby for me (despite what my bruised and battered wallet may say), so setting goals like posting once a week (or once a month) ~might~ have been a bit overzealous. On to the quail!
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The New Mexico Department of Game & Fish has published some great reading material about these small birds, and a majority of the information about these birds in this post comes from their resources. The Gambel's Quail began its time on Earth in the Sonoran Desert of Southwest California, Southwest Arizona, and Northwest Mexico. They then spread to New Mexico and their assembly call is a staple of springtime in the desert. While they are small, they are also quite mighty in number, having clutches of 10-14 per year, sometimes having two clutches per year. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This photo was quite fun to take as it was one of the few times the wildlife actually showed up for one of my post-work photo shoots. During the summer 2023 while living in a 5th wheel I would setup a folding adirondack chair outside where I would often sit with my camera on a tripod for an hour or two before sunset practicing photography. On this particular afternoon, I heard the hoard of baby quail ambling up the small hill in the backyard quickly followed by a young mother and an equally young father. They were so concerned with their massive covey of golf ball sized babies they didn't seem to pay attention to me. The parents formed a sort of two point perimeter around the group to protect the babies as they ate; it was during this time that the mother stepped a little ways away from the group and I was able to snag this shot. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This photo holds a special place in my heart because it was one of the best pictures I'd taken on a DLSR since I really got into photography. I'd be shooting with a Canon m50 for a while, then transitioned to a full-frame 6DmkII. I was having some trouble getting images to turn out the way I was expecting with the 6D, especially when the m50 produced beautiful images right out of the box. But once I spent enough time taking random pictures, I began to have a better feel for what made for a good image. When I was able to snag this one, I was quite proud of the effort I'd been putting in and how effectively it had paid off. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you all for reading, I've had a blast taking a bunch of photos lately so hopefully I will be posting more, but alas, might not be the case. Thank you for all the support!
+
+Best,
+-Ben
+
+
+
+
+
+
+
