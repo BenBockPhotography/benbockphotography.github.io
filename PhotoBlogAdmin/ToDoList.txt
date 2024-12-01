@@ -1,2 +1,0 @@
-- Create shop that can sell postcards, prints, and some matted stuff
-- Keep an eye out for different websites and what you like
