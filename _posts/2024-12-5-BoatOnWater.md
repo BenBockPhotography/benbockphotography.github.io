@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Backyard Mama Quail
+title: Boat On The Water
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/BoatOnTheWater.jpg)
