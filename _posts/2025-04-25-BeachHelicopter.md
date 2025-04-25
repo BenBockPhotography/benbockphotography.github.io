@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seattle Roadtrip
+title: Beach Helicopter
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/BeachHeliccopter.jpg)
